@@ -1,0 +1,1 @@
+tailwindcss -i ./web/views/css/app.css -o ./web/assets/style.css --watch

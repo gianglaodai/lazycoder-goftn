@@ -1,0 +1,9 @@
+/.idea/
+/node_modules/
+/tmp/
+/web/public/
+/.vite/
+go.sum
+bun.lockb
+*.log
+.env.*.local
